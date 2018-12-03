@@ -1,4 +1,4 @@
-file = open('advent1.txt')
+file = open('adv1.txt')
 lines = file.read().splitlines()
 
 freq = 0
